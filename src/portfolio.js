@@ -210,7 +210,7 @@ const bigProjects = {
     {
       image: require("./assets/images/accueil_monvieuxgrimoire.webp"),
       projectName: "Mon vieux Grimoire",
-      projectDesc: "Projet Open Class Room dans lequel on me demandait de créer le backend d'une application de notation de livres. ",
+      projectDesc: " Projet Open Class Room dans lequel on me demandait de créer le backend d'une application de notation de livres. Ce backend utilise Node.js avec Express pour créer une API REST sécurisée, connectée à une base de données MongoDB via Mongoose. Il intègre des outils tels que JWT pour l'authentification, bcrypt pour le hachage des mots de passe, Swagger pour la documentation API, et Helmet pour la sécurité des en-têtes HTTP. ", 
       footerLink: [
         {
           name: "Mon vieux grimoire",
@@ -222,7 +222,7 @@ const bigProjects = {
     {
       image: require("./assets/images/kasa.webp"),
       projectName: "Kasa",
-      projectDesc: "Projet Open Class Room dans lequel on me demandait de créer depuis zéro une application react pour une agence de voyage. ",
+      projectDesc: "Projet Open Class Room dans lequel on me demandait de créer depuis zéro une application react pour une agence de voyage. J'ai utilisé React pour la gestion des composants dynamiques, le router pour la navigation, et SCSS pour une gestion modulaire et performante des styles. Le projet intègre également des animations CSS pour des transitions fluides et des requêtes API avec fetch pour récupérer les données des logements. ",
       footerLink: [
         {
           name: "Kasa",
